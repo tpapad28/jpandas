@@ -2,9 +2,9 @@
 
 A proof-of-concept Java project utilizing Python Pandas using GraalPy
 
-### Samples
+## Samples
 
-## Calculate Mean
+### Calculate Mean
 
 Calculate the mean of an array of random numbers of size `size`:
 
